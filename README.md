@@ -36,7 +36,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Mazur Michał
 1. [Pająkowski Adrian](http://apajakowski.github.io)
 1. [Paprocki Adam](http://paprot.github.io/)
-1. Kalarus Marcin
+1. [Kalarus Marcin](http://mkalarus.github.io/)
 1. Hinz Karol
 1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
 1. [Szykuła Artur](http://aszykula.github.io/)
