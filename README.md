@@ -32,7 +32,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Falęcki Jacek
 1. Gontarski Karol
 1. Hinz Karol
-1. Kalarus Marcin
+1. [Kalarus Marcin](https://mkalarus.github.io), [Leaflet](http://mkalarus.github.io/Mapa/), [Pokaz z opisem elementów strony](http://slides.com/finmarchicus/jak-tworzylem-moja-strone).
 1. Massalska Emilia
 1. Mazur Michał
 1. Michalski Mateusz
